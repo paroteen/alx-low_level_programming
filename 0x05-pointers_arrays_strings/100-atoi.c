@@ -1,4 +1,3 @@
-#!/bin/bash
 #include "main.h"
 /**
  * _atoi - converts strings to int
